@@ -18,6 +18,6 @@ Dependencies of code :
 1. bs4 library - MIT license
 2. fuzzywuzzy library - GNU General Public License v2 (GPLv2)
 3. tika- Apache Software License
-
+4. python 3.6.9
 
 Licensed under GNU GENERAL PUBLIC LICENSE
