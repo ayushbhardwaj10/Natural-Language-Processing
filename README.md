@@ -1,2 +1,2 @@
 # Natural-Language-Processing
-Few of my work in Natural Language Processing
+This repository contain few of my works in Natural Language Processing
