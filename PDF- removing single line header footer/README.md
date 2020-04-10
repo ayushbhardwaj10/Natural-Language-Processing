@@ -3,6 +3,7 @@ It's very helpful for pre-pocessing PDF's which are used for natural language pr
 
 NOTE : Code is developed for general requirements, it can be manipulated for specific requirements. Code is very scalable :) 
 Scalability is kept in mind since PDF documents have different formats and require different set of rules to handel it's processing.
+Any modification of code to enhance it's efficiency will be very well appreciated.
 
 Features of code :
 
